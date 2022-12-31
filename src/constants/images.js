@@ -11,6 +11,8 @@ import project8 from '../assets/Projects/select-chart-year.png';
 import project9 from '../assets/Projects/todolist1.png';
 import project10 from '../assets/Projects/shoppingcart.png';
 import project11 from '../assets/Projects/weather-api.png';
+import project12 from '../assets/Projects/screencapture-localhost-3000-2022-12-31-02_57_02.png';
+
 
 export default {
   profile,
@@ -25,5 +27,6 @@ export default {
   project8,
   project9,
   project10,
-  project11
+  project11,
+  project12
 }

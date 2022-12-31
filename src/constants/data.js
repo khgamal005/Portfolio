@@ -122,6 +122,13 @@ const projects = [
     "website": "https://khgamal005.github.io/weather-api/",
     "small": "small",
   },
+  {
+    "name": "React gym-design",
+    "img": images.project12,
+    "github": "https://github.com/khgamal005/react-gym-design.git",
+    "website": "https://khgamal005.github.io/react-gym-design/",
+    "small": "small",
+  },
 ]
 
 export default { Skills, projects };

@@ -202,6 +202,7 @@ ul {
   background: linear-gradient(#B25068, #c8a25a, #534666);
   border-radius: 50%;
   animation: rotateAnime infinite linear 0.7s;
+  -webkit-animation: rotateAnime infinite linear 0.7s;
 }
 @media (max-width: 576px) {
   .loader_cont .loader {
