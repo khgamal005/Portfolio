@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f7707302.css",
-    "main.js": "/Portfolio/static/js/main.1b79ebca.js",
-    "static/media/movie-app.png": "/Portfolio/static/media/movie-app.f857c73096248e79ebda.png",
+    "main.js": "/Portfolio/static/js/main.3f4a9cc7.js",
+    "static/media/movies-beta-weld-vercel-app-.png": "/Portfolio/static/media/movies-beta-weld-vercel-app-.f7c4a89c58969fd69787.png",
     "static/media/screencapture-localhost-3000-2022-12-31-02_57_02.png": "/Portfolio/static/media/screencapture-localhost-3000-2022-12-31-02_57_02.f5980b7e48225ff1987f.png",
     "static/media/Angora-html-.png": "/Portfolio/static/media/Angora-html-.cec3024df7c31b263824.png",
     "static/media/Colorlib.png": "/Portfolio/static/media/Colorlib.be28f695611d0749b26d.png",
+    "static/media/dracarys-2023-06-05-05_00_30.png": "/Portfolio/static/media/dracarys-2023-06-05-05_00_30.a5e36a09bcd3c32edae5.png",
+    "static/media/rino.png": "/Portfolio/static/media/rino.a93c418fdbac9543a0a5.png",
     "static/media/shoppingcart.png": "/Portfolio/static/media/shoppingcart.8e9e11a22937fbe884d5.png",
+    "static/media/admin-dashboard-.png": "/Portfolio/static/media/admin-dashboard-.d6336d8edaab0831099e.png",
     "static/media/myread.png": "/Portfolio/static/media/myread.7ab7fb72a32816315e52.png",
+    "static/media/screencapture-ecommerce-front-main-vercel-app-categories-2023-06-05-04_06_51.png": "/Portfolio/static/media/screencapture-ecommerce-front-main-vercel-app-categories-2023-06-05-04_06_51.3ec6c484e6a408ae491c.png",
     "static/media/quiz-app-.png": "/Portfolio/static/media/quiz-app-.37dd63a3ff5192c6b152.png",
     "static/media/weather-api.png": "/Portfolio/static/media/weather-api.035a166dbddd65537d64.png",
     "static/media/pexels.jpeg": "/Portfolio/static/media/pexels.bb94060199b54daf0def.jpeg",
     "static/media/shopping-cart-reduxtoolkit-app-firebase.png": "/Portfolio/static/media/shopping-cart-reduxtoolkit-app-firebase.257a7e24db84af054e88.png",
-    "static/media/todolist1.png": "/Portfolio/static/media/todolist1.abf063216eb20905754c.png",
     "static/media/contact_img.png": "/Portfolio/static/media/contact_img.48b17cffa926ad82e9c4.png",
-    "static/media/select-chart-year.png": "/Portfolio/static/media/select-chart-year.fea0e028bde6161ab26b.png",
-    "static/media/custoomHookReact.png": "/Portfolio/static/media/custoomHookReact.bb11c4014ec034de8293.png",
+    "static/media/crud-redux-toolkit-.png": "/Portfolio/static/media/crud-redux-toolkit-.26f6df8a6f32b83f5008.png",
     "index.html": "/Portfolio/index.html",
     "main.f7707302.css.map": "/Portfolio/static/css/main.f7707302.css.map",
-    "main.1b79ebca.js.map": "/Portfolio/static/js/main.1b79ebca.js.map"
+    "main.3f4a9cc7.js.map": "/Portfolio/static/js/main.3f4a9cc7.js.map"
   },
   "entrypoints": [
     "static/css/main.f7707302.css",
-    "static/js/main.1b79ebca.js"
+    "static/js/main.3f4a9cc7.js"
   ]
 }
