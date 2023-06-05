@@ -14,8 +14,8 @@ const About = () => {
       <h2 className='main_heading'>About Me</h2>
       <Container>
         <article className="qual_cont" data-aos={"fade-up"}>
-          <p>Hi , I'm a Front-end web developer with <span>1</span>+ years of experience in designing and building responsive web apps.</p>
-          <p><span>2022</span><FontAwesomeIcon icon={faHandPointRight} /> Graduated from faculty of Education, verified certificate of completion from ministry of communication and technology of egypt in React Development Cross Skilling </p>
+          <p>Hi , I'm a Front-end web developer with <span>2</span>+ years of experience in designing and building responsive web apps.</p>
+          <p><span>2022</span><FontAwesomeIcon icon={faHandPointRight} />  verified certificate of completion from ministry of communication and technology of egypt in React Development Cross Skilling </p>
         </article>
         <article className="About_Info" data-aos={"fade-up"}>
           <Row>
@@ -29,7 +29,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6} className="col_info mb-3">
               <p>CV:</p>
-              <a href="https://drive.google.com/file/d/1neuuDss5k46yV2j2tycTJAKRlluOLzez/view?usp=sharing" className='view custom_button' target="_blank" rel="noreferrer">View</a>
+              <a href="https://drive.google.com/file/d/11Ploin371qaJvG0PPmZhD_HlSISVBcUr/view?usp=sharing" className='view custom_button' target="_blank" rel="noreferrer">View</a>
             </Col>
             <Col xs={12} md={6} className="col_info mb-0">
               <p>Phone:</p>
